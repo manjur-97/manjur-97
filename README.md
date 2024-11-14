@@ -50,11 +50,6 @@ I’m proficient in a variety of technologies for backend and frontend developme
 
 ---
 
-### 📅 Yearly Commit History
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical" alt="Yearly Commit History" />
-</p>
 
 ---
 
