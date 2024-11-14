@@ -42,21 +42,19 @@ I’m proficient in a variety of technologies for backend and frontend developme
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Collaboration & Contribution
+
+I enjoy contributing to open-source projects and collaborating with other developers. Here’s a snapshot of my activity:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=contribs,prs" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yourusername&theme=radical&utcOffset=8" alt="Productive Time" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=yourusername&theme=radical" alt="Contribution Stats" />
 </p>
 
----
 
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/md-manjur-rahman)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvo.eco15@gmail.com)
 
 ---
 
