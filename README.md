@@ -42,14 +42,6 @@ I’m proficient in a variety of technologies for backend and frontend developme
 
 ---
 
-## 🤝 Collaboration & Contribution
-
-I enjoy contributing to open-source projects and collaborating with other developers. Here’s a snapshot of my activity:
-
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=yourusername&theme=radical" alt="Contribution Stats" />
-</p>
-
 
 ## 🤝 Connect with Me
 
