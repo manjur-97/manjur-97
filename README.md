@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Software Developer with expertise
 
 - 💼 **Software Developer** at **Trust Innovation Limited**
 - 🎓 Completed a **Post Graduate Diploma in Web Application Development** through the **IsDB IT Scholarship Program**
-- 🌍 **Portfolio:** [shuvo.intels.co](http://shuvo.intels.co)
+- 🌍 **Portfolio:** [shuvo.intels.co](https://manjur.xyz/)
 - 📫 **Connect with me on [LinkedIn](https://bd.linkedin.com/in/md-manjur-rahman)**
 
 ---
