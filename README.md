@@ -1,6 +1,6 @@
 # Hi there, I'm Manjur Rahman 👋
 
-Welcome to my GitHub profile! I'm a passionate Software Developer with expertise in **PHP, Laravel, Vue.js, JavaScript**, and more. I thrive on solving complex problems, building efficient solutions, and contributing to open-source projects.
+Welcome to my GitHub profile! I'm a passionate Software Developer with expertise in **PHP, Laravel, React, Vue.js, JavaScript**, and more. I thrive on solving complex problems, building efficient solutions, and contributing to open-source projects.
 
 ---
 
